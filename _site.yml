@@ -6,7 +6,7 @@ navbar:
     - text: "Inicio"
       href: index.html
     - text: "Nosotros"
-      href: Nosotros.html
+      href: About.html
 output:
   html_document:
     theme: cosmo
