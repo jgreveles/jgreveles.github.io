@@ -1,5 +1,0 @@
----
-title: "Un poco sobre nosotros"
----
-
-Spacemates es un equipo de entusiastas en tecnología y los ambientes, Entre arquitectos y tecnólogos, compartimos la pasión por disfrutar del placer creativo a través del entorno que nos rodea.
